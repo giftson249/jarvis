@@ -261,12 +261,12 @@
       "Version": "1.5.0",
       "Dependencies": [
         {
-          "Item1": "Microsoft.Exchange.WebServices",
-          "Item2": "[2.2.0, )"
-        },
-        {
           "Item1": "BouncyCastle",
           "Item2": "[1.8.1, )"
+        },
+        {
+          "Item1": "Microsoft.Exchange.WebServices",
+          "Item2": "[2.2.0, )"
         },
         {
           "Item1": "interop.domino.dll",
@@ -306,14 +306,6 @@
       "Version": "19.5.0",
       "Dependencies": [
         {
-          "Item1": "UiPath.Vision",
-          "Item2": "[1.6.0, )"
-        },
-        {
-          "Item1": "UiPath.OCR.Contracts",
-          "Item2": "[1.0.0, )"
-        },
-        {
           "Item1": "AvalonEdit",
           "Item2": "[5.0.3, )"
         },
@@ -328,6 +320,14 @@
         {
           "Item1": "UiPath",
           "Item2": "[19.5.7079.28746, )"
+        },
+        {
+          "Item1": "UiPath.OCR.Contracts",
+          "Item2": "[1.0.0, )"
+        },
+        {
+          "Item1": "UiPath.Vision",
+          "Item2": "[1.6.0, )"
         }
       ]
     },
